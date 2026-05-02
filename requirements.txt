@@ -1,0 +1,5 @@
+anthropic==0.39.0
+langgraph==0.2.45
+langchain-core==0.3.13
+pydantic==2.9.2
+click==8.1.7
